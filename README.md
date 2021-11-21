@@ -22,7 +22,7 @@ In order to reproduce the values reported in the table, you have to download:
 1.  The models trained on each source domain from this link: 
 
     
-2.  The pretrained model provided by Chenyun Wu et al. from this link: https://umass-my.sharepoint.com/personal/chenyunwu_umass_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchenyunwu%5Fumass%5Fedu%2FDocuments%2Fprojects%2FTexture%2Fmy%5Frepo%2Foutput%2Ftriplet%5Fmatch%2Fda3%5Fbert%5Flr0%2E00001%2Fcheckpoints
+2.  The pretrained model provided by Chenyun Wu et al. from this [link](https://umass-my.sharepoint.com/personal/chenyunwu_umass_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchenyunwu%5Fumass%5Fedu%2FDocuments%2Fprojects%2FTexture%2Fmy%5Frepo%2Foutput%2Ftriplet%5Fmatch%2Fda3%5Fbert%5Flr0%2E00001%2Fcheckpoints):
   
     Then, you have to put it into 
 
