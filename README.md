@@ -17,25 +17,14 @@ PACS/kfold/art_painting/dog/pic_003.jpg
 
 ## Pretrained models
 
-In order to reproduce the values reported in the table, you have to download:
+In order to reproduce the values reported in the table, you have to download the pretrained models from this link: https://drive.google.com/drive/folders/13fBWEa61kfE1A26jBdy_kz3hTCBLWOT5?usp=sharing
 
-1.  The models trained on each source domain from this link: 
+Then, you have to put the "outputs" folder into 
 
-    Then, you have to put the "outputs" folder into 
+```
+/DomainToText_AMLProject/
+```
 
-    ```
-    /DomainToText_AMLProject/
-    ```
-
-    
-2.  The pretrained model provided by Chenyun Wu et al. from this [link](https://umass-my.sharepoint.com/personal/chenyunwu_umass_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchenyunwu%5Fumass%5Fedu%2FDocuments%2Fprojects%2FTexture%2Fmy%5Frepo%2Foutput%2Ftriplet%5Fmatch%2Fda3%5Fbert%5Flr0%2E00001%2Fcheckpoints):
-  
-    Then, you have to put it into 
-
-    ```
-    /DomainToText_AMLProject/outputs/triplet_match/
-    ```
-  
 
 ## Environment
 
@@ -51,6 +40,5 @@ you have to execute the command:
 
 ```
 pip install torch==1.4.0
-
 ```
 
