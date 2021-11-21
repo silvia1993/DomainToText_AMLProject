@@ -21,7 +21,7 @@ In order to reproduce the values reported in the table, you have to download:
 
 1.  The models trained on each source domain from this link: 
 
-    Then, you have to put them into 
+    Then, you have to put the "outputs" folder into 
 
     ```
     /DomainToText_AMLProject/
