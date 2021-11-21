@@ -29,7 +29,7 @@ In order to reproduce the values reported in the table, you have to download:
 Then, you have to put them into 
   
 ```
-/DomainToText_AMLProject/outputs/
+/DomainToText_AMLProject/
 ```
   
 
