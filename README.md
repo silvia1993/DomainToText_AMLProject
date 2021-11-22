@@ -17,7 +17,7 @@ PACS/kfold/art_painting/dog/pic_003.jpg
 
 ## Pretrained models
 
-In order to reproduce the values reported in the table, you have to download the pretrained models from this link: https://drive.google.com/drive/folders/13fBWEa61kfE1A26jBdy_kz3hTCBLWOT5?usp=sharing
+In order to reproduce the values reported in the table, you have to download the pretrained models from this link: https://drive.google.com/drive/folders/17tWDDDPY9fRLrnL3YbwkHrilq12oii2M?usp=sharing
 
 Then, you have to put the "outputs" folder into 
 
