@@ -4,7 +4,7 @@ Basic code to reproduce the baselines (point 1 of the project).
 
 ## Dataset
 
-1 - Download PACS dataset from here https://domaingeneralization.github.io/
+1 - Download PACS dataset from the portal of the course in the "project_topics" folder.
 
 2 - Place the dataset in the DomainToText_AMLProject folder making sure that the images are organized in this way:
 
